@@ -33,6 +33,10 @@ namespace _03_Loops
                 Console.WriteLine(studentCount);
                 studentCount --;
             }
+
+            Console.WriteLine("I'm making some changes to demonstrate pushing to GitHub");
+
+            Console.WriteLine("Don't try this at home");
         }
     }
 }
